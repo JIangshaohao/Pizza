@@ -5,7 +5,7 @@
 界面布局全部都是自己敲的，为下次的电商项目奠定基础，
 HTML+CSS+JS+jQuery。
 
-电商项目：https://gitee.com/jshForever/UP-PizzaByFood
+电商项目：https://github.com/JIangshaohao/UP-PizzaByFood
 
 展示：
 ![输入图片说明](https://images.gitee.com/uploads/images/2022/0409/155406_32e0cd45_9612012.png "QQ截图20220406155820.png")
